@@ -1,1 +1,1 @@
-
+Adiciona o item JAVASCRIPT a lista de tecnologias anterior.
