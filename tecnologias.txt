@@ -1,2 +1,1 @@
-Lista de tecnologias a serem utilizadas:
-HTML e CSS
+Adiciona o item JAVASCRIPT a lista de tecnologias anterior.
