@@ -1,1 +1,4 @@
+Cadastro de usuários;
+Verificação de senha;
+Tema claro e escuro;
 
